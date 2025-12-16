@@ -6,7 +6,7 @@
 <td width="35%" align="center">
 
 <!-- Avatar Image -->
-<img src="https://pin.it/6eDOqMK5B" width="200" style="border-radius: 20px;"/>
+<img src="[https://pin.it/6eDOqMK5B](https://pbs.twimg.com/profile_images/1885021638996963329/zPwNsr98_400x400.jpg)" width="200" style="border-radius: 20px;"/>
 
 </td>
 <td width="65%" align="left" style="padding-left: 20px;">
