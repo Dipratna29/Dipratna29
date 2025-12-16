@@ -6,7 +6,7 @@
 <td width="35%" align="center">
 
 <!-- Avatar Image -->
-<img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Black&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light" width="200" style="border-radius: 20px;"/>
+<img src="E:\Dipratna29\download (1).jpg" width="200" style="border-radius: 20px;"/>
 
 </td>
 <td width="65%" align="left" style="padding-left: 20px;">
