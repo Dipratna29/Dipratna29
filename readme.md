@@ -6,7 +6,7 @@
 <td width="35%" align="center">
 
 <!-- Avatar Image -->
-<img src="E:\Dipratna29\download (1).jpg" width="200" style="border-radius: 20px;"/>
+<img src="https://pin.it/6eDOqMK5B" width="200" style="border-radius: 20px;"/>
 
 </td>
 <td width="65%" align="left" style="padding-left: 20px;">
