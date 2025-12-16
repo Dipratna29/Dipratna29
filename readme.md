@@ -6,7 +6,7 @@
 <td width="35%" align="center">
 
 <!-- Avatar Image -->
-<img src="https://share.google/gKLAGlQCdnl8LEZ23" width="200" style="border-radius: 20px;"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/044/667/570/original/maddie_creates-pfp.gif?1640784763" height="32" />
 
 </td>
 <td width="65%" align="left" style="padding-left: 20px;">
