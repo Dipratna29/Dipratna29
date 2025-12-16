@@ -6,7 +6,7 @@
 <td width="35%" align="center">
 
 <!-- Avatar Image -->
-<img src="https://imgcdn.stablediffusionweb.com/2024/12/18/d3f24cf7-601d-49eb-a5dc-b9dac0014c8e.jpg" width="200" style="border-radius: 20px;"/>
+<img src="https://share.google/gKLAGlQCdnl8LEZ23" width="200" style="border-radius: 20px;"/>
 
 </td>
 <td width="65%" align="left" style="padding-left: 20px;">
