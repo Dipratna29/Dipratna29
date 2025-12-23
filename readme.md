@@ -1,5 +1,48 @@
 <div align="center">
 
+<!-- ===== HACKER HERO ===== -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Access+Granted+✔;Hi%2C+I'm+Dipratna+Ravi+Kamble;AI+%26+Data+Science+Student;Creative+Developer+%26+Editor;Code.+Create.+Hack+Reality." />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+
+<br/>
+
+<pre>
+██████╗ ██╗██████╗ ██████╗  █████╗ ████████╗███╗   ██╗ █████╗
+██╔══██╗██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝████╗  ██║██╔══██╗
+██║  ██║██║██████╔╝██████╔╝███████║   ██║   ██╔██╗ ██║███████║
+██║  ██║██║██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║╚██╗██║██╔══██║
+██████╔╝██║██║     ██║  ██║██║  ██║   ██║   ██║ ╚████║██║  ██║
+╚═════╝ ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝
+</pre>
+
+<img src="https://komarev.com/ghpvc/?username=Dipratna29&style=for-the-badge&color=00ff41"/>
+
+</div>
+
+---
+
+## 🧑‍💻 WHOAMI
+
+
+$ whoami
+Dipratna Ravi Kamble
+
+$ role
+AI & Data Science Student | Creative Developer
+
+$ experience
+2 Years
+
+$ focus
+Artificial Intelligence
+Web Development
+Video & Image Editing
+Creative Tech
+
+
 <!-- ===== HERO SECTION ===== -->
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Dipratna+Ravi+Kamble;AI+%26+Data+Science+Student;Creative+Developer+%26+Editor;Turning+Ideas+Into+Reality" />
 
