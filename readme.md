@@ -48,34 +48,28 @@
 
 <h2 align="center">⊙ Statistics</h2>
 
-<br>
+<h2 align="center">⊙ Statistics</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Dipratna29&show_icons=true&hide_border=true&bg_color=0d1017&title_color=d8dee9&icon_color=7da5d8&text_color=9da7b3&rank_icon=github"
-width="48%"
-/>
-
-<img
-src="https://streak-stats.demolab.com/?user=Dipratna29&theme=github-dark-blue&hide_border=true"
-width="48%"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dipratna29&show_icons=true&hide_border=true&bg_color=0d1017&title_color=d8dee9&icon_color=7da5d8&text_color=9da7b3"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Dipratna29&theme=dark&hide_border=true&background=0d1017&ring=7da5d8&fire=7da5d8&currStreakLabel=d8dee9&sideLabels=9da7b3&currStreakNum=d8dee9&sideNums=d8dee9&dates=586576"
+    width="48%"
+  />
 </p>
 
 <br>
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Dipratna29&bg_color=0d1017&color=9da7b3&line=557da9&point=d8dee9&area=true&hide_border=true"
-width="95%"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dipratna29&bg_color=0d1017&color=9da7b3&line=557da9&point=d8dee9&area=true&hide_border=true"
+    width="95%"
+  />
 </p>
 
-<br>
 
 ---
 
