@@ -187,3 +187,4 @@ src="https://komarev.com/ghpvc/?username=Dipratna29&style=flat-square&color=193A
 <sub>© Dipratna Ravi Kamble</sub>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12345a,100:0b1728&height=100&section=footer" width="100%"/>
