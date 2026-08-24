@@ -28,7 +28,7 @@
 
 <h2 align="center">⊙ Technologies</h2>
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 
@@ -40,7 +40,7 @@
 
 <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,figma,vscode"/>
 
-</p>
+</div>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <img
 src="https://streak-stats.demolab.com/?user=Dipratna29&theme=dark&hide_border=true&background=0d1017&ring=7da5d8&fire=7da5d8&currStreakLabel=d8dee9&sideLabels=9da7b3&currStreakNum=d8dee9&sideNums=d8dee9&dates=586576"
@@ -62,63 +62,65 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 width="48%"
 />
 
-</p>
-
-<br>
-
-<p align="center">
+<br><br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Dipratna29&bg_color=0d1017&color=9da7b3&line=557da9&point=d8dee9&area=true&hide_border=true"
 width="95%"
 />
 
-</p>
+</div>
 
-
+<br>
 
 ---
 
 <h2 align="center">⊙ About Me</h2>
 
-<table align="center">
-<tr>
-
-<td width="40%" align="center">
+<div align="center">
 
 <img
 src="https://github.com/Dipratna29.png"
 width="230"
 />
 
-</td>
+<br><br>
 
-<td width="60%">
+### Hello! I'm **Dipratna Ravi Kamble** 👋
 
-Hello! I'm **Dipratna Ravi Kamble** 👋
-
-I am a **B.Tech Artificial Intelligence & Data Science student** with an interest in technology, development and creative work.
-
-I'm passionate about building practical applications and exploring technologies related to:
-
-**Artificial Intelligence · Data Science · Web Development · Software Development**
-
-I also enjoy **video editing, image editing, filmmaking and visual storytelling**.
-
-I believe in learning by building and continuously experimenting with new technologies.
+I am a **B.Tech Artificial Intelligence & Data Science student**  
+with an interest in technology, development and creative work.
 
 <br>
 
-**Currently:**
-🎓 B.Tech AI & Data Science
-🤖 Exploring AI & Machine Learning
-💻 Building real-world projects
-🎨 Combining technology with creativity
+I'm passionate about building practical applications and exploring:
 
-</td>
+**Artificial Intelligence · Data Science · Web Development · Software Development**
 
-</tr>
-</table>
+<br>
+
+I also enjoy:
+
+**Video Editing · Image Editing · Filmmaking · Visual Storytelling**
+
+<br>
+
+I believe in learning by building and continuously  
+experimenting with new technologies.
+
+<br><br>
+
+### Currently
+
+🎓 **B.Tech AI & Data Science**
+
+🤖 **Exploring AI & Machine Learning**
+
+💻 **Building Real-World Projects**
+
+🎨 **Combining Technology With Creativity**
+
+</div>
 
 <br>
 
@@ -126,35 +128,37 @@ I believe in learning by building and continuously experimenting with new techno
 
 <h2 align="center">⊙ Hobbies & Goals</h2>
 
-<p align="center">
+<div align="center">
 
-🎬 <b>Video Editing</b>
-   •   
-🎨 <b>Designing</b>
-   •   
-📹 <b>Filmmaking</b>
-   •   
-✈️ <b>Traveling</b>
-
-<br><br>
-
-💻 <b>Coding</b>
-   •   
-🤖 <b>Artificial Intelligence</b>
-   •   
-📚 <b>Learning</b>
-   •   
-🚀 <b>Building</b>
+🎬 **Video Editing**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🎨 **Designing**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+📹 **Filmmaking**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+✈️ **Traveling**
 
 <br><br>
 
-<i>"Technology becomes powerful when creativity gives it direction."</i>
+💻 **Coding**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🤖 **Artificial Intelligence**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+📚 **Learning**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🚀 **Building**
+
+<br><br>
+
+<i>
+"Technology becomes powerful when creativity gives it direction."
+</i>
 
 <br><br>
 
 <b>⚡ Main Branch ⚡</b>
 
-</p>
+</div>
 
 <br>
 
@@ -162,15 +166,15 @@ I believe in learning by building and continuously experimenting with new techno
 
 <h2 align="center">⊙ Languages</h2>
 
-<p align="center">
+<div align="center">
 
-🇬🇧 <b>English</b>
-   •   
-🇮🇳 <b>Hindi</b>
-   •   
-🇮🇳 <b>Marathi</b>
+🇬🇧 **English**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🇮🇳 **Hindi**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🇮🇳 **Marathi**
 
-</p>
+</div>
 
 <br>
 
@@ -187,4 +191,3 @@ src="https://komarev.com/ghpvc/?username=Dipratna29&style=flat-square&color=193A
 <sub>© Dipratna Ravi Kamble</sub>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12345a,100:0b1728&height=100&section=footer" width="100%"/>
