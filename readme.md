@@ -74,55 +74,48 @@ width="95%"
 <br>
 
 ---
+---
 
 <h2 align="center">⊙ About Me</h2>
 
 <div align="center">
 
-<img
-src="https://github.com/Dipratna29.png"
-width="230"
-/>
+<img src="https://github.com/Dipratna29.png" width="180"/>
 
 <br><br>
 
 ### Hello! I'm **Dipratna Ravi Kamble** 👋
 
-I am a **B.Tech Artificial Intelligence & Data Science student**  
-with an interest in technology, development and creative work.
+**B.Tech Artificial Intelligence & Data Science Student**
 
 <br>
 
-I'm passionate about building practical applications and exploring:
-
-**Artificial Intelligence · Data Science · Web Development · Software Development**
+I'm passionate about **Artificial Intelligence, Data Science, Web Development, and Software Development**. I enjoy turning ideas into practical projects and continuously exploring new technologies.
 
 <br>
 
-I also enjoy:
-
-**Video Editing · Image Editing · Filmmaking · Visual Storytelling**
+Alongside development, I have a strong interest in **Video Editing, Image Editing, Filmmaking, Designing, and Visual Storytelling**.
 
 <br>
 
-I believe in learning by building and continuously  
-experimenting with new technologies.
+I believe in **learning by building**, experimenting with new ideas, and combining technology with creativity to create meaningful digital experiences.
 
-<br><br>
+<br>
 
 ### Currently
 
 🎓 **B.Tech AI & Data Science**
-
 🤖 **Exploring AI & Machine Learning**
-
 💻 **Building Real-World Projects**
-
 🎨 **Combining Technology With Creativity**
+
+<br>
+
+*"Code with purpose. Create with creativity."*
 
 </div>
 
-<br>
+---
 
 ---
 
